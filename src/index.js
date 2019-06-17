@@ -1,6 +1,6 @@
-// import './css/style.scss'
-import './css/index.css'
-import './css/index2.css'
+import '@/css/style'
+// import './css/index.css'
+// import './css/index2.css'
 class FacCache {
     constructor() {
         this.list = {};
@@ -13,4 +13,4 @@ class FacCache {
     }
 }
 
-console.log(ENV);
+console.log(ENV,3);

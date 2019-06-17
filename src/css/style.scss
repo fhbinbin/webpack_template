@@ -1,6 +1,7 @@
-$color: green;
+$color: #e33e32;
 p{
     color: $color;
     display: flex;
     flex-direction: column;
+    background: url('../imgs/tip_success.png');
 }
